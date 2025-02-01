@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi! I'm a junior full-stack developer who is new to the field of web development. I have learned HTML, CSS, JavaScript online courses and self-study. I'm excited to learn new technologies.<br>🔭 I’m currently working on Html Css and JavaScript<br>🌱 I’m currently learning React and Java<br>📫 How to reach me yilmazlutfiyegul@gmail.com<br>
+#💫 About Me:
+Hello! I have developed my skills in web development and built a strong foundation with technologies like HTML, CSS, and JavaScript. However, I am currently focusing on advancing my knowledge in the field of Artificial Intelligence. I am working on learning and applying AI and machine learning technologies to enhance my skills in this area.<br>🔭 I’m currently working on Artificial Intelligence and Machine Learning projects<br>🌱 I’m actively learning deep learning and AI frameworks<br>📫 How to reach me: yilmazlutfiyegul@gmail.com
 
 
 ## 🌐 Socials:
