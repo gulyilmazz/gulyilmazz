@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Gül Yılmaz 👋</h1>
+<h1 align="center">Hi, I'm Gül 👋</h1>
 
 <h3 align="center">💻 AI & Web Developer | Lifelong Learner</h3>
 
@@ -14,6 +14,8 @@ I enjoy building projects that combine both creativity and intelligence.
 - 📫 Reach me: **yilmazlutfiyegul@gmail.com**
 
 ---
+
+<h3 align="center">💬 “Her hata, sizi daha iyi bir programcı yapan bir adımdır.” 💫</h3>
 
 ### 💻 Tech Stack  
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
