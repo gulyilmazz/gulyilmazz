@@ -5,12 +5,12 @@
 ---
 
 ### 💫 About Me  
-I have built a strong foundation in **web development** using HTML, CSS, and JavaScript.  
-Currently, I’m focusing on expanding my knowledge in **Artificial Intelligence** and **Machine Learning**.  
-I enjoy building projects that combine both creativity and intelligence.
+I started my journey in **web development**, building a solid foundation with HTML, CSS, and JavaScript.  
+Currently, I’m deeply focused on **Deep Learning and Artificial Intelligence**, where I love exploring how data and algorithms can learn and create.  
+I’m especially interested in **neural networks, model optimization, and intelligent systems**.  
 
-- 🔭 Currently working on AI and ML projects  
-- 🌱 Learning Deep Learning and AI frameworks  
+- 🔭 Working on Deep Learning and AI projects  
+- 🌱 Learning advanced frameworks and model architectures  
 - 📫 Reach me: **yilmazlutfiyegul@gmail.com**
 
 ---
