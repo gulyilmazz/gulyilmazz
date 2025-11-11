@@ -15,8 +15,6 @@ I enjoy building projects that combine both creativity and intelligence.
 
 ---
 
-<h3 align="center">💬 “Her hata, sizi daha iyi bir programcı yapan bir adımdır.” 💫</h3>
-
 ### 💻 Tech Stack  
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
@@ -35,7 +33,7 @@ I enjoy building projects that combine both creativity and intelligence.
 
 ---
 
-<h3 align="center">💬 “Her hata, sizi daha iyi bir programcı yapan bir adımdır.” 💫</h3>
+<h3 align="center">💬 “Every mistake is a step that makes you a better programmer.” 💫</h3>
 
 ---
 
