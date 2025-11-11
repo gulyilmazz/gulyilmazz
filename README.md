@@ -12,7 +12,7 @@ Hello! I have developed my skills in web development and built a strong foundati
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gulyilmazz&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gulyilmazz&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Her hata, sizi daha iyi bir programcı yapan bir adımdır. 💫
+<h3 align="center">💫 “Her hata, sizi daha iyi bir programcı yapan bir adımdır.” 💫</h3>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gulyilmazz&icon=0&color=5)](https://visitcount.itsvg.in)
