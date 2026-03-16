@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Gül 👋</h1>
 
-<h3 align="center">💻 AI & Web Developer | Lifelong Learner</h3>
+<h3 align="center">💻 AI & Web Developer </h3>
 
 ---
 
