@@ -1,37 +1,17 @@
-# Lütfiye Gül Yılmaz
+<h1 align="center">Hi, I'm Gül 👋</h1>
 
-**Software Engineer | AI & Machine Learning**
+<p align="center"><b>Software Engineer | AI & Machine Learning</b></p>
 
-Software Engineering graduate (Fırat University, 2026) working on applied machine learning and time-series forecasting. I build end-to-end ML projects: data processing, feature engineering, model training, REST APIs and dashboards.
+### 💫 About Me
 
-## Featured Project
+I started with **web development**, building my foundation with HTML, CSS and JavaScript. Then I fell for **machine learning**: the idea that data and algorithms can learn patterns we can't see by eye.
 
-**[AquaTrack](https://github.com/bnur-yildirim/AquaTrack-Su-Izleme-Sistemi)** – Satellite-based water monitoring and forecasting platform ([aquatrack.tr](https://aquatrack.tr))
-- Monitors 7 lakes in Türkiye using Sentinel-2 data (2018–2024)
-- CatBoost models forecast water quantity 1–3 months ahead (1-month test R²: 0.997)
-- K-Means and XGBoost classify water quality states from NDWI, Chlorophyll-a, Turbidity and WRI
-- Flask REST API and React dashboard
-- Team project, my role: project manager, AI developer and frontend developer
-- Finalist, Turkcell Geleceği Yazan Yapay Zekâ Kadınları
+Since then I've worked on image classification, time-series forecasting and, most recently, **AquaTrack**, a team project where we forecast lake water levels from satellite data. I led the team, trained the models and built the dashboard, and it took us to the finals of Turkcell's Geleceği Yazan Yapay Zekâ Kadınları program.
 
-## Other Projects
+I enjoy the whole path from messy data to something people can open in a browser and use. Right now I'm learning how to make ML projects reliable in production: tests, Docker and CI/CD.
 
-- [Fish Species Classification](https://github.com/gulyilmazz/Fish_Species_Classification_Using_Deep_Learning): ANN with TensorFlow (Akbank Deep Learning Bootcamp)
-- [Solid Waste Detection](https://github.com/gulyilmazz/Solid_waste_detection_with_CNN): CNN image classification
-- [Cinema Ticket App](https://github.com/gulyilmazz/cinema_ticket_app): Flutter app with REST API integration and token-based authentication
+- 🔭 Working on: AquaTrack, taking it closer to production
+- 🌱 Learning: MLOps, model deployment and monitoring
+- 📫 Reach me: **yilmazlutfiyegul@gmail.com**
 
-## Skills
-
-- **Languages:** Python, SQL, JavaScript, Dart, C#, PHP
-- **ML:** Scikit-learn, XGBoost, CatBoost, TensorFlow, Keras, PyTorch
-- **Data:** Pandas, NumPy, PostgreSQL
-- **Backend and Frontend:** Flask, React, Flutter, Laravel
-- **Tools:** Docker, Git
-
-## Currently
-
-Improving AquaTrack towards production: reproducible training, tests, CI/CD and Docker.
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/l%C3%BCtfiyeg%C3%BCly%C4%B1lmaz/) · yilmazlutfiyegul@gmail.com
+> *"Every mistake is a step that makes you a better programmer."* 💫
