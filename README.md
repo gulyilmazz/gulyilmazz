@@ -42,9 +42,6 @@ I’m especially interested in **time-series forecasting, model optimization, an
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-### 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=gulyilmazz&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gulyilmazz&theme=radical&hide_border=false)
 
 ---
 
